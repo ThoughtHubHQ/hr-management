@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "HR Manager",
-  description: "Manage your office in a single place.",
+  description: "Manage your employees in a single place.",
 };
 
 export default function RootLayout({
